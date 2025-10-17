@@ -1,0 +1,1001 @@
+text,command,intent
+Please restart the device immediately,restart,immediate
+Haz un reinicio ahora,restart,immediate
+Put the computer into hibernation now,hibernate,immediate
+Hibernate it now immediately,hibernate,immediate
+Hibernate the PC immediately,hibernate,immediate
+Hibernate the PC in an hour,hibernate,scheduled
+Hibernate the PC immediately,hibernate,immediate
+Let it rest when finished,sleep,scheduled
+Activate hibernate mode in an hour,hibernate,scheduled
+Hiberna el PC ya,hibernate,immediate
+Bájale el switch al compu enseguida,shutdown,immediate
+Déjalo en modo reposo más tarde,sleep,scheduled
+Turn off the PC now,shutdown,immediate
+Coloca el sistema en hibernación en una hora,hibernate,scheduled
+Sleep it now afterwards,sleep,scheduled
+Suspende el PC ya,sleep,immediate
+Sleep it now right away,sleep,immediate
+Activa el modo suspensión ya,sleep,immediate
+Por favor reinicia el equipo más tarde,restart,scheduled
+Hibernate it now when finished,hibernate,scheduled
+Activa el modo hibernar en una hora,hibernate,scheduled
+Restart the system right away,restart,immediate
+Déjalo en modo reposo ahora,sleep,immediate
+Reinicia el computador enseguida,restart,immediate
+Please restart the device afterwards,restart,scheduled
+Kill the power right away,shutdown,immediate
+Dale reiniciar en una hora,restart,scheduled
+Activa el modo hibernar después,hibernate,scheduled
+Reinicia el computador en una hora,restart,scheduled
+Apaga todo enseguida,shutdown,immediate
+Por favor reinicia el equipo enseguida,restart,immediate
+Make it sleep deep when finished,hibernate,scheduled
+Hibernate it now later,hibernate,scheduled
+Suspende el PC después,sleep,scheduled
+Sleep it now now,sleep,immediate
+Apaga todo cuando termine,shutdown,scheduled
+Put that system to hibernate now,hibernate,immediate
+Reinicia el sistema enseguida,restart,immediate
+Restart the system immediately,restart,immediate
+Apaga el PC enseguida,shutdown,immediate
+Let it rest immediately,sleep,immediate
+Please shut down the system when finished,shutdown,scheduled
+Please shut down the system asap,shutdown,immediate
+Turn it off when finished,shutdown,scheduled
+Sleep it now later,sleep,scheduled
+Suspende el sistema de inmediato,sleep,immediate
+Por favor reinicia el equipo más tarde,restart,scheduled
+Reinicia el computador después,restart,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Put the computer to sleep in an hour,sleep,scheduled
+Apaga todo ya,shutdown,immediate
+Activa el modo hibernar en una hora,hibernate,scheduled
+Suspend the system now,sleep,immediate
+Perform a system reboot afterwards,restart,scheduled
+Ponlo a dormir enseguida,sleep,immediate
+Put the computer to sleep in an hour,sleep,scheduled
+Suspende el PC de inmediato,sleep,immediate
+Make it sleep deep now,hibernate,immediate
+Bájale el switch al compu más tarde,shutdown,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Sleep it now later,sleep,scheduled
+Turn it off and on again when finished,restart,scheduled
+Reinicia el sistema cuando termine,restart,scheduled
+Dale reiniciar más tarde,restart,scheduled
+Restart the system immediately,restart,immediate
+Make the PC nap right away,sleep,immediate
+Suspend the system asap,sleep,immediate
+Sleep it now now,sleep,immediate
+Pon el computador en suspensión de inmediato,sleep,immediate
+Put the computer into hibernation now,hibernate,immediate
+Vuelve a encender esa vaina cuando termine,restart,scheduled
+Pon el computador en hibernación de inmediato,hibernate,immediate
+Please restart the device in an hour,restart,scheduled
+Bájale el switch al compu ahora,shutdown,immediate
+Make it sleep deep later,hibernate,scheduled
+Pon el computador en hibernación de inmediato,hibernate,immediate
+Pon el computador en hibernación en una hora,hibernate,scheduled
+Hibernate it now afterwards,hibernate,scheduled
+Reinicia el computador cuando termine,restart,scheduled
+Mételo a dormir profundo enseguida,hibernate,immediate
+Ponlo a dormir ahora,sleep,immediate
+Restart that thing in an hour,restart,scheduled
+Sleep it now in an hour,sleep,scheduled
+Sleep it now asap,sleep,immediate
+Procede a apagar el equipo de inmediato,shutdown,immediate
+Make it sleep deep asap,hibernate,immediate
+Restart that thing in an hour,restart,scheduled
+Suspend the system when finished,sleep,scheduled
+Por favor reinicia el equipo más tarde,restart,scheduled
+Power off everything in an hour,shutdown,scheduled
+Please shut down the system right away,shutdown,immediate
+Activa el modo suspensión más tarde,sleep,scheduled
+Hiberna el PC cuando termine,hibernate,scheduled
+Procede a apagar el equipo enseguida,shutdown,immediate
+Put the computer into hibernation asap,hibernate,immediate
+Power off everything asap,shutdown,immediate
+Vuelve a encender esa vaina en una hora,restart,scheduled
+Turn off the PC immediately,shutdown,immediate
+Apaga el computador en una hora,shutdown,scheduled
+Déjalo en modo reposo después,sleep,scheduled
+Ponlo a dormir más tarde,sleep,scheduled
+Pon el computador en hibernación enseguida,hibernate,immediate
+Suspende el PC en una hora,sleep,scheduled
+Activa el modo suspensión enseguida,sleep,immediate
+Dale reiniciar más tarde,restart,scheduled
+Turn it off and on again right away,restart,immediate
+Suspend the system later,sleep,scheduled
+Coloca el sistema en hibernación enseguida,hibernate,immediate
+Hiberna el PC de inmediato,hibernate,immediate
+Put that system to hibernate asap,hibernate,immediate
+Kill the power in an hour,shutdown,scheduled
+Apaga todo después,shutdown,scheduled
+Kill the power now,shutdown,immediate
+Por favor apaga el sistema ya,shutdown,immediate
+Déjalo en modo reposo de inmediato,sleep,immediate
+Reinicia el computador en una hora,restart,scheduled
+Apaga el PC enseguida,shutdown,immediate
+Activa el modo hibernar más tarde,hibernate,scheduled
+Por favor apaga el sistema cuando termine,shutdown,scheduled
+Procede a apagar el equipo más tarde,shutdown,scheduled
+Apaga todo en una hora,shutdown,scheduled
+Please restart the device afterwards,restart,scheduled
+Procede a apagar el equipo cuando termine,shutdown,scheduled
+Reinicia el computador ya,restart,immediate
+Vuelve a encender esa vaina cuando termine,restart,scheduled
+Pon el computador en hibernación enseguida,hibernate,immediate
+Apaga el PC ahora,shutdown,immediate
+Make it sleep deep right away,hibernate,immediate
+Suspende el PC de inmediato,sleep,immediate
+Perform a system reboot asap,restart,immediate
+Make the PC nap afterwards,sleep,scheduled
+Shut down the computer now,shutdown,immediate
+Activa el modo suspensión después,sleep,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Déjalo en modo reposo en una hora,sleep,scheduled
+Reinicia el computador enseguida,restart,immediate
+Let it rest asap,sleep,immediate
+Por favor apaga el sistema cuando termine,shutdown,scheduled
+Sleep it now immediately,sleep,immediate
+Haz un reinicio enseguida,restart,immediate
+Put the computer to sleep in an hour,sleep,scheduled
+Turn off the PC later,shutdown,scheduled
+Turn off the PC right away,shutdown,immediate
+Turn off the PC right away,shutdown,immediate
+Suspende el sistema después,sleep,scheduled
+Hiberna el PC ahora,hibernate,immediate
+Mételo a dormir profundo enseguida,hibernate,immediate
+Turn it off asap,shutdown,immediate
+Coloca el sistema en hibernación ahora,hibernate,immediate
+Reinicia el sistema más tarde,restart,scheduled
+Mételo a dormir profundo enseguida,hibernate,immediate
+Apaga el computador después,shutdown,scheduled
+Suspende el sistema cuando termine,sleep,scheduled
+Please shut down the system asap,shutdown,immediate
+Hibernate the PC asap,hibernate,immediate
+Activate hibernate mode immediately,hibernate,immediate
+Activate hibernate mode now,hibernate,immediate
+Suspend the system in an hour,sleep,scheduled
+Apaga el computador en una hora,shutdown,scheduled
+Turn off the PC now,shutdown,immediate
+Hibernate the PC right away,hibernate,immediate
+Pon el computador en suspensión de inmediato,sleep,immediate
+Perform a system reboot in an hour,restart,scheduled
+Pon el computador en suspensión más tarde,sleep,scheduled
+Restart the system when finished,restart,scheduled
+Suspend the system right away,sleep,immediate
+Mételo a dormir profundo de inmediato,hibernate,immediate
+Apaga el PC más tarde,shutdown,scheduled
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Turn off the PC right away,shutdown,immediate
+Put the computer to sleep immediately,sleep,immediate
+Restart the system when finished,restart,scheduled
+Dale reiniciar después,restart,scheduled
+Déjalo en modo reposo más tarde,sleep,scheduled
+Restart that thing now,restart,immediate
+Reinicia el sistema después,restart,scheduled
+Hiberna el PC en una hora,hibernate,scheduled
+Mételo a dormir profundo cuando termine,hibernate,scheduled
+Activate hibernate mode in an hour,hibernate,scheduled
+Power off everything when finished,shutdown,scheduled
+Pon el computador en suspensión ahora,sleep,immediate
+Mételo a dormir profundo enseguida,hibernate,immediate
+Hibernate it now now,hibernate,immediate
+Kill the power afterwards,shutdown,scheduled
+Apaga todo en una hora,shutdown,scheduled
+Let it rest afterwards,sleep,scheduled
+Apaga el computador después,shutdown,scheduled
+Hiberna el PC ya,hibernate,immediate
+Make it sleep deep immediately,hibernate,immediate
+Por favor reinicia el equipo ya,restart,immediate
+Please shut down the system later,shutdown,scheduled
+Please shut down the system when finished,shutdown,scheduled
+Por favor reinicia el equipo después,restart,scheduled
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Please shut down the system right away,shutdown,immediate
+Procede a apagar el equipo de inmediato,shutdown,immediate
+Dale reiniciar ahora,restart,immediate
+Please shut down the system afterwards,shutdown,scheduled
+Let it rest asap,sleep,immediate
+Suspende el sistema de inmediato,sleep,immediate
+Activate hibernate mode when finished,hibernate,scheduled
+Make the PC nap later,sleep,scheduled
+Please shut down the system immediately,shutdown,immediate
+Ponlo a dormir en una hora,sleep,scheduled
+Sleep it now right away,sleep,immediate
+Put the computer into hibernation asap,hibernate,immediate
+Restart the system immediately,restart,immediate
+Déjalo en modo reposo cuando termine,sleep,scheduled
+Put the computer to sleep in an hour,sleep,scheduled
+Turn off the PC asap,shutdown,immediate
+Hiberna el PC ya,hibernate,immediate
+Hibernate the PC now,hibernate,immediate
+Reinicia el computador de inmediato,restart,immediate
+Activa el modo suspensión después,sleep,scheduled
+Suspende el PC más tarde,sleep,scheduled
+Vuelve a encender esa vaina cuando termine,restart,scheduled
+Hiberna el PC ahora,hibernate,immediate
+Apaga el computador más tarde,shutdown,scheduled
+Sleep it now right away,sleep,immediate
+Put the computer into hibernation right away,hibernate,immediate
+Activa el modo hibernar cuando termine,hibernate,scheduled
+Por favor reinicia el equipo en una hora,restart,scheduled
+Power off everything when finished,shutdown,scheduled
+Hibernate the PC asap,hibernate,immediate
+Put the computer to sleep in an hour,sleep,scheduled
+Dale reiniciar más tarde,restart,scheduled
+Let it rest when finished,sleep,scheduled
+Activate hibernate mode now,hibernate,immediate
+Make it sleep deep in an hour,hibernate,scheduled
+Please shut down the system now,shutdown,immediate
+Apaga todo más tarde,shutdown,scheduled
+Pon el computador en hibernación cuando termine,hibernate,scheduled
+Reinicia el sistema en una hora,restart,scheduled
+Hiberna el PC ya,hibernate,immediate
+Dale reiniciar cuando termine,restart,scheduled
+Pon el computador en hibernación de inmediato,hibernate,immediate
+Dale reiniciar cuando termine,restart,scheduled
+Suspende el PC después,sleep,scheduled
+Ponlo a dormir más tarde,sleep,scheduled
+Suspend the system immediately,sleep,immediate
+Turn it off and on again asap,restart,immediate
+Put that system to hibernate now,hibernate,immediate
+Suspende el sistema ya,sleep,immediate
+Sleep it now right away,sleep,immediate
+Shut down the computer when finished,shutdown,scheduled
+Turn off the PC later,shutdown,scheduled
+Por favor reinicia el equipo ahora,restart,immediate
+Hibernate the PC right away,hibernate,immediate
+Por favor reinicia el equipo enseguida,restart,immediate
+Sleep it now later,sleep,scheduled
+Put that system to hibernate immediately,hibernate,immediate
+Activate hibernate mode later,hibernate,scheduled
+Hibernate it now now,hibernate,immediate
+Suspende el PC ya,sleep,immediate
+Ponlo a dormir en una hora,sleep,scheduled
+Apaga el computador en una hora,shutdown,scheduled
+Pon el computador en suspensión más tarde,sleep,scheduled
+Pon el computador en suspensión ya,sleep,immediate
+Hiberna el PC enseguida,hibernate,immediate
+Put the computer into hibernation afterwards,hibernate,scheduled
+Let it rest immediately,sleep,immediate
+Bájale el switch al compu después,shutdown,scheduled
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Perform a system reboot immediately,restart,immediate
+Coloca el sistema en hibernación de inmediato,hibernate,immediate
+Perform a system reboot when finished,restart,scheduled
+Restart that thing now,restart,immediate
+Sleep it now now,sleep,immediate
+Ponlo a dormir más tarde,sleep,scheduled
+Apaga el computador más tarde,shutdown,scheduled
+Haz un reinicio en una hora,restart,scheduled
+Reinicia el computador de inmediato,restart,immediate
+Reboot the computer asap,restart,immediate
+Hibernate the PC later,hibernate,scheduled
+Apaga el PC ya,shutdown,immediate
+Sleep it now now,sleep,immediate
+Apaga todo enseguida,shutdown,immediate
+Bájale el switch al compu ya,shutdown,immediate
+Suspende el sistema de inmediato,sleep,immediate
+Shut down the computer asap,shutdown,immediate
+Sleep it now immediately,sleep,immediate
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Please restart the device in an hour,restart,scheduled
+Reboot the computer in an hour,restart,scheduled
+Put the computer into hibernation immediately,hibernate,immediate
+Por favor reinicia el equipo más tarde,restart,scheduled
+Activate sleep mode when finished,sleep,scheduled
+Activa el modo suspensión de inmediato,sleep,immediate
+Reboot the computer in an hour,restart,scheduled
+Activa el modo hibernar ahora,hibernate,immediate
+Pon el computador en hibernación enseguida,hibernate,immediate
+Hibernate it now immediately,hibernate,immediate
+Sleep it now when finished,sleep,scheduled
+Bájale el switch al compu de inmediato,shutdown,immediate
+Power off everything afterwards,shutdown,scheduled
+Activa el modo hibernar ya,hibernate,immediate
+Kill the power immediately,shutdown,immediate
+Haz un reinicio de inmediato,restart,immediate
+Apaga todo más tarde,shutdown,scheduled
+Activa el modo hibernar más tarde,hibernate,scheduled
+Vuelve a encender esa vaina ahora,restart,immediate
+Power off everything afterwards,shutdown,scheduled
+Shut down the computer when finished,shutdown,scheduled
+Suspend the system later,sleep,scheduled
+Put the computer into hibernation now,hibernate,immediate
+Suspende el sistema más tarde,sleep,scheduled
+Reinicia el computador ahora,restart,immediate
+Coloca el sistema en hibernación en una hora,hibernate,scheduled
+Ponlo a dormir cuando termine,sleep,scheduled
+Reinicia el sistema de inmediato,restart,immediate
+Activate sleep mode asap,sleep,immediate
+Please restart the device asap,restart,immediate
+Let it rest in an hour,sleep,scheduled
+Por favor reinicia el equipo de inmediato,restart,immediate
+Mételo a dormir profundo ya,hibernate,immediate
+Turn off the PC right away,shutdown,immediate
+Hibernate it now asap,hibernate,immediate
+Hibernate it now immediately,hibernate,immediate
+Hibernate it now asap,hibernate,immediate
+Turn it off later,shutdown,scheduled
+Apaga el computador ahora,shutdown,immediate
+Let it rest when finished,sleep,scheduled
+Apaga el computador ya,shutdown,immediate
+Pon el computador en suspensión enseguida,sleep,immediate
+Déjalo en modo reposo cuando termine,sleep,scheduled
+Coloca el sistema en hibernación ya,hibernate,immediate
+Make the PC nap afterwards,sleep,scheduled
+Power off everything now,shutdown,immediate
+Please shut down the system now,shutdown,immediate
+Mételo a dormir profundo después,hibernate,scheduled
+Déjalo en modo reposo ya,sleep,immediate
+Activate sleep mode when finished,sleep,scheduled
+Turn off the PC now,shutdown,immediate
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Sleep it now asap,sleep,immediate
+Coloca el sistema en hibernación de inmediato,hibernate,immediate
+Dale reiniciar ahora,restart,immediate
+Hibernate the PC asap,hibernate,immediate
+Please restart the device later,restart,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Procede a apagar el equipo cuando termine,shutdown,scheduled
+Procede a apagar el equipo más tarde,shutdown,scheduled
+Activa el modo hibernar ya,hibernate,immediate
+Suspende el sistema más tarde,sleep,scheduled
+Procede a hibernar el equipo después,hibernate,scheduled
+Por favor apaga el sistema en una hora,shutdown,scheduled
+Put the computer to sleep in an hour,sleep,scheduled
+Bájale el switch al compu enseguida,shutdown,immediate
+Por favor reinicia el equipo ahora,restart,immediate
+Apaga el PC en una hora,shutdown,scheduled
+Power off everything immediately,shutdown,immediate
+Procede a hibernar el equipo más tarde,hibernate,scheduled
+Turn it off immediately,shutdown,immediate
+Kill the power when finished,shutdown,scheduled
+Bájale el switch al compu ya,shutdown,immediate
+Apaga todo después,shutdown,scheduled
+Apaga todo después,shutdown,scheduled
+Perform a system reboot immediately,restart,immediate
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Procede a hibernar el equipo ya,hibernate,immediate
+Please restart the device later,restart,scheduled
+Shut down the computer asap,shutdown,immediate
+Suspend the system immediately,sleep,immediate
+Déjalo en modo reposo de inmediato,sleep,immediate
+Please shut down the system in an hour,shutdown,scheduled
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Kill the power immediately,shutdown,immediate
+Apaga el computador después,shutdown,scheduled
+Vuelve a encender esa vaina en una hora,restart,scheduled
+Put that system to hibernate now,hibernate,immediate
+Dale reiniciar enseguida,restart,immediate
+Procede a hibernar el equipo en una hora,hibernate,scheduled
+Pon el computador en suspensión después,sleep,scheduled
+Please restart the device when finished,restart,scheduled
+Haz un reinicio ahora,restart,immediate
+Make it sleep deep immediately,hibernate,immediate
+Perform a system reboot when finished,restart,scheduled
+Ponlo a dormir después,sleep,scheduled
+Hibernate it now later,hibernate,scheduled
+Déjalo en modo reposo ya,sleep,immediate
+Sleep it now when finished,sleep,scheduled
+Suspend the system in an hour,sleep,scheduled
+Reinicia el sistema más tarde,restart,scheduled
+Put that system to hibernate now,hibernate,immediate
+Turn it off and on again in an hour,restart,scheduled
+Hiberna el PC de inmediato,hibernate,immediate
+Perform a system reboot right away,restart,immediate
+Put the computer to sleep right away,sleep,immediate
+Suspende el PC de inmediato,sleep,immediate
+Ponlo a dormir más tarde,sleep,scheduled
+Please shut down the system now,shutdown,immediate
+Mételo a dormir profundo de inmediato,hibernate,immediate
+Suspende el PC ahora,sleep,immediate
+Kill the power when finished,shutdown,scheduled
+Reinicia el sistema enseguida,restart,immediate
+Reinicia el sistema enseguida,restart,immediate
+Suspende el sistema cuando termine,sleep,scheduled
+Power off everything afterwards,shutdown,scheduled
+Apaga todo enseguida,shutdown,immediate
+Suspende el sistema ahora,sleep,immediate
+Let it rest immediately,sleep,immediate
+Activate sleep mode right away,sleep,immediate
+Please shut down the system immediately,shutdown,immediate
+Mételo a dormir profundo cuando termine,hibernate,scheduled
+Reinicia el computador ahora,restart,immediate
+Apaga el computador ya,shutdown,immediate
+Shut down the computer right away,shutdown,immediate
+Shut down the computer when finished,shutdown,scheduled
+Pon el computador en suspensión ahora,sleep,immediate
+Procede a apagar el equipo cuando termine,shutdown,scheduled
+Turn off the PC right away,shutdown,immediate
+Bájale el switch al compu ahora,shutdown,immediate
+Put the computer to sleep asap,sleep,immediate
+Activate hibernate mode afterwards,hibernate,scheduled
+Sleep it now in an hour,sleep,scheduled
+Power off everything now,shutdown,immediate
+Put that system to hibernate asap,hibernate,immediate
+Perform a system reboot now,restart,immediate
+Put the computer to sleep when finished,sleep,scheduled
+Déjalo en modo reposo cuando termine,sleep,scheduled
+Dale reiniciar más tarde,restart,scheduled
+Activate hibernate mode later,hibernate,scheduled
+Hibernate the PC now,hibernate,immediate
+Reinicia el sistema después,restart,scheduled
+Shut down the computer in an hour,shutdown,scheduled
+Reinicia el sistema de inmediato,restart,immediate
+Perform a system reboot right away,restart,immediate
+Vuelve a encender esa vaina ya,restart,immediate
+Pon el computador en suspensión en una hora,sleep,scheduled
+Procede a hibernar el equipo de inmediato,hibernate,immediate
+Please restart the device when finished,restart,scheduled
+Power off everything now,shutdown,immediate
+Turn it off and on again in an hour,restart,scheduled
+Déjalo en modo reposo en una hora,sleep,scheduled
+Activate sleep mode afterwards,sleep,scheduled
+Reinicia el computador cuando termine,restart,scheduled
+Ponlo a dormir ahora,sleep,immediate
+Dale reiniciar más tarde,restart,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Perform a system reboot in an hour,restart,scheduled
+Please shut down the system immediately,shutdown,immediate
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Kill the power immediately,shutdown,immediate
+Shut down the computer afterwards,shutdown,scheduled
+Suspende el sistema enseguida,sleep,immediate
+Activate sleep mode right away,sleep,immediate
+Dale reiniciar ahora,restart,immediate
+Procede a apagar el equipo ahora,shutdown,immediate
+Please shut down the system right away,shutdown,immediate
+Please shut down the system immediately,shutdown,immediate
+Activate hibernate mode when finished,hibernate,scheduled
+Pon el computador en suspensión ahora,sleep,immediate
+Restart the system immediately,restart,immediate
+Activate sleep mode now,sleep,immediate
+Dale reiniciar más tarde,restart,scheduled
+Put the computer to sleep later,sleep,scheduled
+Please shut down the system immediately,shutdown,immediate
+Coloca el sistema en hibernación enseguida,hibernate,immediate
+Por favor reinicia el equipo enseguida,restart,immediate
+Activa el modo hibernar enseguida,hibernate,immediate
+Please restart the device right away,restart,immediate
+Perform a system reboot when finished,restart,scheduled
+Suspende el PC más tarde,sleep,scheduled
+Por favor reinicia el equipo enseguida,restart,immediate
+Sleep it now immediately,sleep,immediate
+Power off everything in an hour,shutdown,scheduled
+Reboot the computer later,restart,scheduled
+Reinicia el computador después,restart,scheduled
+Coloca el sistema en hibernación en una hora,hibernate,scheduled
+Please restart the device now,restart,immediate
+Put the computer into hibernation immediately,hibernate,immediate
+Activa el modo hibernar ya,hibernate,immediate
+Reboot the computer right away,restart,immediate
+Activate hibernate mode right away,hibernate,immediate
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Reinicia el computador más tarde,restart,scheduled
+Mételo a dormir profundo enseguida,hibernate,immediate
+Sleep it now now,sleep,immediate
+Put that system to hibernate asap,hibernate,immediate
+Shut down the computer right away,shutdown,immediate
+Hiberna el PC de inmediato,hibernate,immediate
+Haz un reinicio de inmediato,restart,immediate
+Restart the system in an hour,restart,scheduled
+Put that system to hibernate right away,hibernate,immediate
+Hiberna el PC ya,hibernate,immediate
+Please restart the device afterwards,restart,scheduled
+Restart that thing now,restart,immediate
+Put the computer to sleep when finished,sleep,scheduled
+Reboot the computer right away,restart,immediate
+Pon el computador en suspensión ahora,sleep,immediate
+Por favor apaga el sistema ya,shutdown,immediate
+Hibernate it now now,hibernate,immediate
+Apaga todo cuando termine,shutdown,scheduled
+Procede a hibernar el equipo de inmediato,hibernate,immediate
+Shut down the computer afterwards,shutdown,scheduled
+Perform a system reboot in an hour,restart,scheduled
+Apaga todo en una hora,shutdown,scheduled
+Suspend the system in an hour,sleep,scheduled
+Put the computer into hibernation afterwards,hibernate,scheduled
+Power off everything when finished,shutdown,scheduled
+Power off everything asap,shutdown,immediate
+Let it rest in an hour,sleep,scheduled
+Apaga todo en una hora,shutdown,scheduled
+Put that system to hibernate in an hour,hibernate,scheduled
+Turn it off and on again right away,restart,immediate
+Reinicia el sistema cuando termine,restart,scheduled
+Reinicia el sistema de inmediato,restart,immediate
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Shut down the computer right away,shutdown,immediate
+Sleep it now later,sleep,scheduled
+Make the PC nap when finished,sleep,scheduled
+Sleep it now afterwards,sleep,scheduled
+Suspend the system when finished,sleep,scheduled
+Por favor reinicia el equipo cuando termine,restart,scheduled
+Ponlo a dormir ahora,sleep,immediate
+Por favor reinicia el equipo ya,restart,immediate
+Restart the system when finished,restart,scheduled
+Restart the system afterwards,restart,scheduled
+Apaga el computador ahora,shutdown,immediate
+Por favor apaga el sistema ahora,shutdown,immediate
+Put the computer to sleep later,sleep,scheduled
+Activa el modo hibernar ya,hibernate,immediate
+Vuelve a encender esa vaina después,restart,scheduled
+Let it rest afterwards,sleep,scheduled
+Turn off the PC in an hour,shutdown,scheduled
+Shut down the computer asap,shutdown,immediate
+Reinicia el sistema enseguida,restart,immediate
+Make it sleep deep right away,hibernate,immediate
+Turn it off when finished,shutdown,scheduled
+Please shut down the system later,shutdown,scheduled
+Bájale el switch al compu enseguida,shutdown,immediate
+Apaga todo de inmediato,shutdown,immediate
+Bájale el switch al compu después,shutdown,scheduled
+Hibernate it now when finished,hibernate,scheduled
+Procede a apagar el equipo de inmediato,shutdown,immediate
+Procede a apagar el equipo en una hora,shutdown,scheduled
+Turn it off and on again immediately,restart,immediate
+Por favor reinicia el equipo en una hora,restart,scheduled
+Suspende el PC ya,sleep,immediate
+Déjalo en modo reposo ya,sleep,immediate
+Make the PC nap now,sleep,immediate
+Make the PC nap later,sleep,scheduled
+Bájale el switch al compu enseguida,shutdown,immediate
+Reinicia el computador después,restart,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Make it sleep deep afterwards,hibernate,scheduled
+Restart that thing right away,restart,immediate
+Activa el modo hibernar en una hora,hibernate,scheduled
+Turn it off immediately,shutdown,immediate
+Turn off the PC immediately,shutdown,immediate
+Shut down the computer in an hour,shutdown,scheduled
+Restart that thing later,restart,scheduled
+Activate hibernate mode in an hour,hibernate,scheduled
+Hiberna el PC después,hibernate,scheduled
+Haz un reinicio de inmediato,restart,immediate
+Put the computer to sleep afterwards,sleep,scheduled
+Turn it off and on again immediately,restart,immediate
+Shut down the computer now,shutdown,immediate
+Por favor reinicia el equipo ya,restart,immediate
+Put the computer to sleep asap,sleep,immediate
+Please shut down the system in an hour,shutdown,scheduled
+Procede a apagar el equipo ya,shutdown,immediate
+Let it rest right away,sleep,immediate
+Kill the power asap,shutdown,immediate
+Make it sleep deep immediately,hibernate,immediate
+Por favor reinicia el equipo más tarde,restart,scheduled
+Ponlo a dormir más tarde,sleep,scheduled
+Reinicia el sistema enseguida,restart,immediate
+Pon el computador en hibernación cuando termine,hibernate,scheduled
+Suspende el PC en una hora,sleep,scheduled
+Haz un reinicio de inmediato,restart,immediate
+Restart that thing asap,restart,immediate
+Pon el computador en hibernación ahora,hibernate,immediate
+Mételo a dormir profundo más tarde,hibernate,scheduled
+Dale reiniciar cuando termine,restart,scheduled
+Activate sleep mode now,sleep,immediate
+Coloca el sistema en hibernación de inmediato,hibernate,immediate
+Por favor reinicia el equipo cuando termine,restart,scheduled
+Reinicia el sistema cuando termine,restart,scheduled
+Por favor reinicia el equipo después,restart,scheduled
+Por favor apaga el sistema ya,shutdown,immediate
+Please shut down the system asap,shutdown,immediate
+Procede a hibernar el equipo después,hibernate,scheduled
+Hiberna el PC ahora,hibernate,immediate
+Apaga el PC ya,shutdown,immediate
+Let it rest asap,sleep,immediate
+Shut down the computer in an hour,shutdown,scheduled
+Hibernate the PC later,hibernate,scheduled
+Activa el modo hibernar más tarde,hibernate,scheduled
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Activate hibernate mode afterwards,hibernate,scheduled
+Mételo a dormir profundo cuando termine,hibernate,scheduled
+Suspende el PC más tarde,sleep,scheduled
+Por favor reinicia el equipo enseguida,restart,immediate
+Haz un reinicio de inmediato,restart,immediate
+Make the PC nap right away,sleep,immediate
+Sleep it now now,sleep,immediate
+Coloca el sistema en hibernación cuando termine,hibernate,scheduled
+Turn off the PC asap,shutdown,immediate
+Hiberna el PC ya,hibernate,immediate
+Suspend the system now,sleep,immediate
+Reinicia el computador enseguida,restart,immediate
+Por favor apaga el sistema ahora,shutdown,immediate
+Suspend the system right away,sleep,immediate
+Please restart the device when finished,restart,scheduled
+Turn it off and on again immediately,restart,immediate
+Coloca el sistema en hibernación después,hibernate,scheduled
+Hibernate it now in an hour,hibernate,scheduled
+Vuelve a encender esa vaina ya,restart,immediate
+Restart the system later,restart,scheduled
+Make the PC nap immediately,sleep,immediate
+Put that system to hibernate asap,hibernate,immediate
+Kill the power when finished,shutdown,scheduled
+Please restart the device right away,restart,immediate
+Make the PC nap when finished,sleep,scheduled
+Apaga el PC después,shutdown,scheduled
+Activate hibernate mode right away,hibernate,immediate
+Dale reiniciar enseguida,restart,immediate
+Turn it off and on again afterwards,restart,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Shut down the computer later,shutdown,scheduled
+Let it rest immediately,sleep,immediate
+Kill the power afterwards,shutdown,scheduled
+Please restart the device asap,restart,immediate
+Please shut down the system immediately,shutdown,immediate
+Please restart the device in an hour,restart,scheduled
+Please shut down the system right away,shutdown,immediate
+Procede a hibernar el equipo ya,hibernate,immediate
+Déjalo en modo reposo cuando termine,sleep,scheduled
+Activa el modo hibernar ahora,hibernate,immediate
+Apaga el computador ahora,shutdown,immediate
+Suspende el sistema ya,sleep,immediate
+Suspend the system in an hour,sleep,scheduled
+Let it rest now,sleep,immediate
+Pon el computador en hibernación ahora,hibernate,immediate
+Turn it off and on again immediately,restart,immediate
+Pon el computador en hibernación de inmediato,hibernate,immediate
+Make it sleep deep asap,hibernate,immediate
+Dale reiniciar en una hora,restart,scheduled
+Por favor apaga el sistema más tarde,shutdown,scheduled
+Let it rest when finished,sleep,scheduled
+Please shut down the system right away,shutdown,immediate
+Put that system to hibernate asap,hibernate,immediate
+Make the PC nap in an hour,sleep,scheduled
+Hibernate it now in an hour,hibernate,scheduled
+Please shut down the system later,shutdown,scheduled
+Reinicia el sistema ahora,restart,immediate
+Déjalo en modo reposo en una hora,sleep,scheduled
+Make it sleep deep when finished,hibernate,scheduled
+Hibernate it now now,hibernate,immediate
+Restart that thing in an hour,restart,scheduled
+Reinicia el computador más tarde,restart,scheduled
+Activa el modo suspensión después,sleep,scheduled
+Activate sleep mode afterwards,sleep,scheduled
+Make it sleep deep immediately,hibernate,immediate
+Apaga todo ahora,shutdown,immediate
+Please shut down the system later,shutdown,scheduled
+Power off everything afterwards,shutdown,scheduled
+Reinicia el computador en una hora,restart,scheduled
+Suspende el PC en una hora,sleep,scheduled
+Suspend the system asap,sleep,immediate
+Activate hibernate mode in an hour,hibernate,scheduled
+Activate hibernate mode now,hibernate,immediate
+Dale reiniciar ya,restart,immediate
+Shut down the computer now,shutdown,immediate
+Hibernate the PC now,hibernate,immediate
+Pon el computador en suspensión de inmediato,sleep,immediate
+Procede a hibernar el equipo de inmediato,hibernate,immediate
+Reinicia el sistema cuando termine,restart,scheduled
+Apaga el computador ya,shutdown,immediate
+Shut down the computer now,shutdown,immediate
+Por favor apaga el sistema enseguida,shutdown,immediate
+Please restart the device in an hour,restart,scheduled
+Please shut down the system in an hour,shutdown,scheduled
+Restart the system asap,restart,immediate
+Procede a apagar el equipo cuando termine,shutdown,scheduled
+Please shut down the system later,shutdown,scheduled
+Suspend the system afterwards,sleep,scheduled
+Activa el modo suspensión después,sleep,scheduled
+Suspende el sistema ahora,sleep,immediate
+Haz un reinicio de inmediato,restart,immediate
+Suspende el PC en una hora,sleep,scheduled
+Put the computer to sleep later,sleep,scheduled
+Ponlo a dormir más tarde,sleep,scheduled
+Haz un reinicio después,restart,scheduled
+Apaga el PC ya,shutdown,immediate
+Apaga todo más tarde,shutdown,scheduled
+Make it sleep deep afterwards,hibernate,scheduled
+Suspende el PC cuando termine,sleep,scheduled
+Por favor reinicia el equipo de inmediato,restart,immediate
+Déjalo en modo reposo ya,sleep,immediate
+Power off everything later,shutdown,scheduled
+Suspend the system right away,sleep,immediate
+Activate sleep mode in an hour,sleep,scheduled
+Turn it off and on again when finished,restart,scheduled
+Mételo a dormir profundo ahora,hibernate,immediate
+Turn it off and on again asap,restart,immediate
+Reinicia el sistema ahora,restart,immediate
+Pon el computador en hibernación ya,hibernate,immediate
+Suspend the system asap,sleep,immediate
+Activate hibernate mode later,hibernate,scheduled
+Turn it off right away,shutdown,immediate
+Turn off the PC in an hour,shutdown,scheduled
+Restart the system when finished,restart,scheduled
+Coloca el sistema en hibernación cuando termine,hibernate,scheduled
+Reinicia el computador cuando termine,restart,scheduled
+Reinicia el computador en una hora,restart,scheduled
+Turn it off asap,shutdown,immediate
+Turn off the PC immediately,shutdown,immediate
+Hibernate it now now,hibernate,immediate
+Pon el computador en suspensión más tarde,sleep,scheduled
+Por favor apaga el sistema de inmediato,shutdown,immediate
+Hibernate the PC afterwards,hibernate,scheduled
+Put the computer to sleep right away,sleep,immediate
+Haz un reinicio de inmediato,restart,immediate
+Apaga todo en una hora,shutdown,scheduled
+Apaga todo ahora,shutdown,immediate
+Suspende el PC de inmediato,sleep,immediate
+Kill the power asap,shutdown,immediate
+Restart the system afterwards,restart,scheduled
+Dale reiniciar enseguida,restart,immediate
+Pon el computador en suspensión en una hora,sleep,scheduled
+Dale reiniciar de inmediato,restart,immediate
+Power off everything in an hour,shutdown,scheduled
+Turn off the PC in an hour,shutdown,scheduled
+Make it sleep deep right away,hibernate,immediate
+Activate hibernate mode asap,hibernate,immediate
+Turn off the PC right away,shutdown,immediate
+Turn it off asap,shutdown,immediate
+Reboot the computer in an hour,restart,scheduled
+Put the computer to sleep immediately,sleep,immediate
+Dale reiniciar en una hora,restart,scheduled
+Turn it off afterwards,shutdown,scheduled
+Procede a apagar el equipo ahora,shutdown,immediate
+Turn off the PC when finished,shutdown,scheduled
+Por favor reinicia el equipo de inmediato,restart,immediate
+Shut down the computer right away,shutdown,immediate
+Procede a apagar el equipo de inmediato,shutdown,immediate
+Apaga todo después,shutdown,scheduled
+Put the computer to sleep when finished,sleep,scheduled
+Put the computer to sleep later,sleep,scheduled
+Pon el computador en hibernación después,hibernate,scheduled
+Put the computer to sleep when finished,sleep,scheduled
+Kill the power later,shutdown,scheduled
+Put the computer to sleep now,sleep,immediate
+Activa el modo suspensión después,sleep,scheduled
+Procede a apagar el equipo enseguida,shutdown,immediate
+Reinicia el sistema cuando termine,restart,scheduled
+Déjalo en modo reposo enseguida,sleep,immediate
+Power off everything immediately,shutdown,immediate
+Turn off the PC immediately,shutdown,immediate
+Activate sleep mode right away,sleep,immediate
+Apaga todo ya,shutdown,immediate
+Put the computer into hibernation asap,hibernate,immediate
+Turn it off and on again asap,restart,immediate
+Suspend the system immediately,sleep,immediate
+Reinicia el computador enseguida,restart,immediate
+Activa el modo hibernar cuando termine,hibernate,scheduled
+Sleep it now immediately,sleep,immediate
+Apaga el PC ahora,shutdown,immediate
+Please shut down the system in an hour,shutdown,scheduled
+Coloca el sistema en hibernación más tarde,hibernate,scheduled
+Restart the system later,restart,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Hibernate the PC asap,hibernate,immediate
+Por favor apaga el sistema ya,shutdown,immediate
+Haz un reinicio ya,restart,immediate
+Dale reiniciar enseguida,restart,immediate
+Hibernate it now immediately,hibernate,immediate
+Suspend the system in an hour,sleep,scheduled
+Por favor reinicia el equipo ahora,restart,immediate
+Bájale el switch al compu más tarde,shutdown,scheduled
+Reinicia el sistema en una hora,restart,scheduled
+Reinicia el sistema en una hora,restart,scheduled
+Shut down the computer asap,shutdown,immediate
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Please shut down the system when finished,shutdown,scheduled
+Put the computer into hibernation when finished,hibernate,scheduled
+Kill the power in an hour,shutdown,scheduled
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Suspende el PC cuando termine,sleep,scheduled
+Restart the system immediately,restart,immediate
+Por favor apaga el sistema enseguida,shutdown,immediate
+Please shut down the system when finished,shutdown,scheduled
+Apaga el PC en una hora,shutdown,scheduled
+Dale reiniciar cuando termine,restart,scheduled
+Put that system to hibernate in an hour,hibernate,scheduled
+Suspende el sistema de inmediato,sleep,immediate
+Hibernate the PC asap,hibernate,immediate
+Turn off the PC in an hour,shutdown,scheduled
+Kill the power later,shutdown,scheduled
+Reboot the computer now,restart,immediate
+Suspend the system right away,sleep,immediate
+Déjalo en modo reposo después,sleep,scheduled
+Hiberna el PC en una hora,hibernate,scheduled
+Suspend the system in an hour,sleep,scheduled
+Restart the system later,restart,scheduled
+Please restart the device afterwards,restart,scheduled
+Perform a system reboot now,restart,immediate
+Apaga todo ya,shutdown,immediate
+Shut down the computer now,shutdown,immediate
+Sleep it now later,sleep,scheduled
+Apaga el computador cuando termine,shutdown,scheduled
+Pon el computador en hibernación ahora,hibernate,immediate
+Reinicia el sistema después,restart,scheduled
+Power off everything asap,shutdown,immediate
+Turn off the PC afterwards,shutdown,scheduled
+Turn it off and on again when finished,restart,scheduled
+Turn it off right away,shutdown,immediate
+Ponlo a dormir cuando termine,sleep,scheduled
+Reboot the computer right away,restart,immediate
+Please restart the device later,restart,scheduled
+Procede a hibernar el equipo ahora,hibernate,immediate
+Activate hibernate mode asap,hibernate,immediate
+Déjalo en modo reposo ahora,sleep,immediate
+Please shut down the system afterwards,shutdown,scheduled
+Mételo a dormir profundo cuando termine,hibernate,scheduled
+Turn it off afterwards,shutdown,scheduled
+Pon el computador en hibernación más tarde,hibernate,scheduled
+Perform a system reboot immediately,restart,immediate
+Please restart the device in an hour,restart,scheduled
+Pon el computador en hibernación después,hibernate,scheduled
+Por favor apaga el sistema después,shutdown,scheduled
+Hiberna el PC después,hibernate,scheduled
+Reboot the computer immediately,restart,immediate
+Coloca el sistema en hibernación de inmediato,hibernate,immediate
+Hiberna el PC después,hibernate,scheduled
+Hibernate the PC in an hour,hibernate,scheduled
+Activa el modo suspensión ya,sleep,immediate
+Procede a apagar el equipo más tarde,shutdown,scheduled
+Procede a apagar el equipo cuando termine,shutdown,scheduled
+Sleep it now now,sleep,immediate
+Por favor apaga el sistema cuando termine,shutdown,scheduled
+Déjalo en modo reposo más tarde,sleep,scheduled
+Déjalo en modo reposo ya,sleep,immediate
+Power off everything immediately,shutdown,immediate
+Hiberna el PC de inmediato,hibernate,immediate
+Activate hibernate mode immediately,hibernate,immediate
+Restart the system afterwards,restart,scheduled
+Restart that thing afterwards,restart,scheduled
+Pon el computador en suspensión después,sleep,scheduled
+Make the PC nap afterwards,sleep,scheduled
+Reinicia el sistema cuando termine,restart,scheduled
+Restart that thing right away,restart,immediate
+Activa el modo suspensión más tarde,sleep,scheduled
+Suspende el PC después,sleep,scheduled
+Reboot the computer afterwards,restart,scheduled
+Activa el modo hibernar ya,hibernate,immediate
+Activate hibernate mode afterwards,hibernate,scheduled
+Haz un reinicio después,restart,scheduled
+Procede a hibernar el equipo ahora,hibernate,immediate
+Activa el modo suspensión en una hora,sleep,scheduled
+Reinicia el sistema en una hora,restart,scheduled
+Suspende el sistema en una hora,sleep,scheduled
+Reinicia el sistema ya,restart,immediate
+Put the computer into hibernation later,hibernate,scheduled
+Please restart the device afterwards,restart,scheduled
+Procede a apagar el equipo ahora,shutdown,immediate
+Restart that thing afterwards,restart,scheduled
+Coloca el sistema en hibernación de inmediato,hibernate,immediate
+Apaga el computador ahora,shutdown,immediate
+Put that system to hibernate now,hibernate,immediate
+Turn off the PC in an hour,shutdown,scheduled
+Restart the system right away,restart,immediate
+Activate sleep mode in an hour,sleep,scheduled
+Sleep it now now,sleep,immediate
+Apaga el computador ya,shutdown,immediate
+Hibernate it now immediately,hibernate,immediate
+Bájale el switch al compu en una hora,shutdown,scheduled
+Reboot the computer in an hour,restart,scheduled
+Turn off the PC right away,shutdown,immediate
+Turn it off right away,shutdown,immediate
+Haz un reinicio más tarde,restart,scheduled
+Restart the system immediately,restart,immediate
+Put the computer into hibernation asap,hibernate,immediate
+Ponlo a dormir enseguida,sleep,immediate
+Apaga el computador después,shutdown,scheduled
+Reinicia el computador enseguida,restart,immediate
+Put that system to hibernate later,hibernate,scheduled
+Haz un reinicio ya,restart,immediate
+Kill the power now,shutdown,immediate
+Power off everything now,shutdown,immediate
+Suspend the system afterwards,sleep,scheduled
+Apaga todo cuando termine,shutdown,scheduled
+Put the computer to sleep afterwards,sleep,scheduled
+Turn off the PC when finished,shutdown,scheduled
+Please restart the device later,restart,scheduled
+Suspende el PC cuando termine,sleep,scheduled
+Make it sleep deep right away,hibernate,immediate
+Procede a hibernar el equipo ya,hibernate,immediate
+Suspende el PC ahora,sleep,immediate
+Sleep it now later,sleep,scheduled
+Pon el computador en suspensión después,sleep,scheduled
+Power off everything in an hour,shutdown,scheduled
+Ponlo a dormir ahora,sleep,immediate
+Activate hibernate mode immediately,hibernate,immediate
+Turn it off asap,shutdown,immediate
+Suspende el sistema en una hora,sleep,scheduled
+Restart that thing afterwards,restart,scheduled
+Reinicia el computador de inmediato,restart,immediate
+Reinicia el computador ya,restart,immediate
+Mételo a dormir profundo ya,hibernate,immediate
+Suspend the system in an hour,sleep,scheduled
+Procede a apagar el equipo ahora,shutdown,immediate
+Put the computer to sleep immediately,sleep,immediate
+Mételo a dormir profundo cuando termine,hibernate,scheduled
+Activa el modo suspensión enseguida,sleep,immediate
+Activate sleep mode in an hour,sleep,scheduled
+Turn off the PC now,shutdown,immediate
+Turn it off right away,shutdown,immediate
+Put that system to hibernate afterwards,hibernate,scheduled
+Hibernate the PC right away,hibernate,immediate
+Make it sleep deep in an hour,hibernate,scheduled
+Suspend the system asap,sleep,immediate
+Haz un reinicio cuando termine,restart,scheduled
+Suspende el PC después,sleep,scheduled
+Suspende el PC de inmediato,sleep,immediate
+Shut down the computer immediately,shutdown,immediate
+Apaga el PC de inmediato,shutdown,immediate
+Bájale el switch al compu más tarde,shutdown,scheduled
+Procede a hibernar el equipo enseguida,hibernate,immediate
+Suspend the system when finished,sleep,scheduled
+Déjalo en modo reposo después,sleep,scheduled
+Restart that thing immediately,restart,immediate
+Haz un reinicio ahora,restart,immediate
+Reinicia el computador de inmediato,restart,immediate
+Turn off the PC in an hour,shutdown,scheduled
+Apaga el PC más tarde,shutdown,scheduled
+Procede a hibernar el equipo más tarde,hibernate,scheduled
+Restart the system later,restart,scheduled
+Please shut down the system later,shutdown,scheduled
+Pon el computador en hibernación ahora,hibernate,immediate
+Turn it off and on again right away,restart,immediate
+Turn it off and on again later,restart,scheduled
+Vuelve a encender esa vaina cuando termine,restart,scheduled
+Déjalo en modo reposo en una hora,sleep,scheduled
+Restart the system immediately,restart,immediate
+Suspende el PC después,sleep,scheduled
+Por favor reinicia el equipo cuando termine,restart,scheduled
+Hibernate the PC in an hour,hibernate,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Make it sleep deep afterwards,hibernate,scheduled
+Make the PC nap immediately,sleep,immediate
+Turn off the PC afterwards,shutdown,scheduled
+Let it rest in an hour,sleep,scheduled
+Let it rest immediately,sleep,immediate
+Suspend the system now,sleep,immediate
+Pon el computador en hibernación ahora,hibernate,immediate
+Hiberna el PC ya,hibernate,immediate
+Suspende el PC cuando termine,sleep,scheduled
+Reinicia el sistema enseguida,restart,immediate
+Ponlo a dormir después,sleep,scheduled
+Make it sleep deep in an hour,hibernate,scheduled
+Please shut down the system asap,shutdown,immediate
+Mételo a dormir profundo ya,hibernate,immediate
+Please restart the device now,restart,immediate
+Kill the power afterwards,shutdown,scheduled
+Let it rest later,sleep,scheduled
+Power off everything when finished,shutdown,scheduled
+Activate sleep mode later,sleep,scheduled
+Make the PC nap now,sleep,immediate
+Make it sleep deep right away,hibernate,immediate
+Activate sleep mode later,sleep,scheduled
+Activate hibernate mode asap,hibernate,immediate
+Make the PC nap asap,sleep,immediate
+Perform a system reboot asap,restart,immediate
+Activa el modo suspensión después,sleep,scheduled
+Perform a system reboot later,restart,scheduled
+Procede a hibernar el equipo después,hibernate,scheduled
+Put that system to hibernate now,hibernate,immediate
+Put the computer into hibernation in an hour,hibernate,scheduled
+Put the computer to sleep immediately,sleep,immediate
+Reboot the computer now,restart,immediate
+Por favor reinicia el equipo ahora,restart,immediate
+Dale reiniciar más tarde,restart,scheduled
+Procede a apagar el equipo en una hora,shutdown,scheduled
+Activa el modo suspensión ya,sleep,immediate
+Hibernate it now now,hibernate,immediate
+Activate sleep mode later,sleep,scheduled
+Activate hibernate mode afterwards,hibernate,scheduled
+Procede a hibernar el equipo después,hibernate,scheduled
+Shut down the computer afterwards,shutdown,scheduled
+Haz un reinicio ahora,restart,immediate
+Perform a system reboot afterwards,restart,scheduled
+Please shut down the system afterwards,shutdown,scheduled
+Suspende el PC más tarde,sleep,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Ponlo a dormir cuando termine,sleep,scheduled
+Bájale el switch al compu cuando termine,shutdown,scheduled
+Suspend the system now,sleep,immediate
+Reinicia el sistema cuando termine,restart,scheduled
+Reboot the computer later,restart,scheduled
+Reinicia el sistema más tarde,restart,scheduled
+Power off everything later,shutdown,scheduled
+Dale reiniciar en una hora,restart,scheduled
+Power off everything now,shutdown,immediate
+Restart that thing now,restart,immediate
+Suspende el PC en una hora,sleep,scheduled
+Reinicia el computador ahora,restart,immediate
+Hibernate the PC afterwards,hibernate,scheduled
